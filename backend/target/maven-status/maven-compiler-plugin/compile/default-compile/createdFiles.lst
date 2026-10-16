@@ -1,0 +1,16 @@
+com\campustask\model\Notification.class
+com\campustask\exception\ResourceNotFoundException.class
+com\campustask\model\Assignment.class
+com\campustask\controller\NotificationController.class
+com\campustask\exception\GlobalExceptionHandler.class
+com\campustask\model\Student.class
+com\campustask\repository\NotificationRepository.class
+com\campustask\service\AssignmentService.class
+com\campustask\controller\AssignmentController.class
+com\campustask\dto\AssignmentRequestDto.class
+com\campustask\service\NotificationService.class
+com\campustask\repository\StudentRepository.class
+com\campustask\dto\NotificationResponseDto.class
+com\campustask\repository\AssignmentRepository.class
+com\campustask\CampusTaskApplication.class
+com\campustask\service\ReminderSchedulerService.class
